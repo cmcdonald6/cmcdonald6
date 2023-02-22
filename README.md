@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m working towards finishing my college career.
-- 🌱 I’m currently learning full stack development.
+- 🔭 I’m working towards finishing my college career, obtaining a php certification, and securing long-term employment.
+- 🌱 I’m currently learning full stack development, software architecture, and playing the guitar and bass.
+- 🔎 I am researching normative dissociation that people experience while using TikTok.
 - 💬 Ask me about UX research, web development, esports, etc.
 - 📫 How to reach me: The best way to reach me is by [my email](mailto:cody.mcdonald0120@gmail.com).
 - ⚡ Fun fact: I have been a member of UNA's collegiate esports team for four years, and I am a professional esports caster.
