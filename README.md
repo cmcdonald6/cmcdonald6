@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on finishing my college career.
+- 🔭 I’m working towards finishing my college career.
 - 🌱 I’m currently learning full stack development.
 - 💬 Ask me about UX research, web development, esports, etc.
 - 📫 How to reach me: The best way to reach me is by [my email](mailto:cody.mcdonald0120@gmail.com).
