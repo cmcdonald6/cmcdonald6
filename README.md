@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I have been a member of UNA's collegiate esports team for four years.
 
 #### Proficient in:
-[![My Skills](https://skillicons.dev/icons?i=bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,cs,codepen,css,discord,bots,eclipse,dotnet,express,gcp,git,github,html,java,js,jquery,linux,md,mongodb,mysql,nodejs,php,powershell,pr,py,replit,twitter,visualstudio,vscode,&perline=15&theme=dark)](https://skillicons.dev)
