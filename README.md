@@ -10,5 +10,4 @@
 
 #### Experience with:
 [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,cs,codepen,css,discord,bots,eclipse,dotnet,express,gcp,git,github,html,java,js,jquery,linux,md,mongodb,mysql,nodejs,php,powershell,pr,py,replit,twitter,visualstudio,vscode,&perline=15&theme=dark)](https://skillicons.dev)
-#### Currently listening:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=57bnzk5r1bqq8zrsefa444f0g&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
