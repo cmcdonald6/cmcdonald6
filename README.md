@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- 🔧 I'm currently employed as a Student Web Developer for UNA's Department of Enrollment Marketing and Digital Communications.
 - 🔭 I’m working towards finishing my college career, obtaining a php certification (as well as others), and securing long-term employment.
 - 🌱 I’m currently learning full stack development, software architecture, and Cascade.
 - 🔎 I am researching normative dissociation that people experience while using TikTok.
