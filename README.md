@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I have been a member of UNA's collegiate esports team for four years, and I am a professional esports caster.
 
 #### Experience with:
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,cs,codepen,css,discord,docker,eclipse,express,gcp,git,github,html,java,js,jquery,linkedin,linux,md,mongodb,mysql,nodejs,php,powershell,pr,py,replit,selenium,twitter,visualstudio,vscode,&perline=18&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,cs,codepen,css,discord,docker,eclipse,express,gcp,git,github,html,java,js,jquery,linkedin,linux,md,mongodb,mysql,nodejs,php,powershell,pr,py,replit,selenium,twitter,visualstudio,vscode,&perline=16&theme=dark)](https://skillicons.dev)
