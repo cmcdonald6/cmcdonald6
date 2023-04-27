@@ -11,4 +11,4 @@
 #### Experience with:
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,cs,codepen,css,discord,docker,eclipse,express,gcp,git,github,html,java,js,jquery,linkedin,linux,md,mongodb,mysql,nodejs,php,powershell,pr,py,replit,selenium,twitter,visualstudio,vscode,&perline=16&theme=dark)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmcdonald6&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmcdonald6&size_weight=0.5&count_weight=0.5&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
