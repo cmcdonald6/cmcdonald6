@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔧 I'm currently employed as a Student Web Developer for UNA's Department of Enrollment Marketing and Digital Communications and as a Delivery Specialist for O'Reilly Auto Parts.
+- 🔧 I'm currently employed as a Delivery Specialist for O'Reilly Auto Parts.
 - 🔭 I’m working towards finishing my college career, obtaining a PHP certification (as well as others), and securing long-term employment.
 - 🌱 I’m currently learning Angular, Vue.js, software architecture, and web scraping.
 - 💬 Ask me about UX research, web development, esports, etc.
