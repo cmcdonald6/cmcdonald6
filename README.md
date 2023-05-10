@@ -9,5 +9,3 @@
 
 #### Experience with:
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,cs,codepen,css,discord,docker,eclipse,express,gcp,git,github,html,java,js,jquery,linkedin,linux,md,mongodb,mysql,nodejs,php,powershell,pr,py,replit,selenium,twitter,visualstudio,vscode,&perline=16&theme=dark)](https://skillicons.dev)
-
-<iframe src="https://challonge.com/p3axsf9f/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
