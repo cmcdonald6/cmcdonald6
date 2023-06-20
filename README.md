@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔧 I'm currently employed as a Delivery Specialist for O'Reilly Auto Parts.
-- 🔭 I’m working towards finishing my college career, obtaining a PHP certification (as well as others), and securing long-term employment.
+- 🔭 I’m working towards securing long-term employment.
 - 🌱 I’m currently learning Angular, Vue.js, software architecture, and web scraping.
 - 💬 Ask me about UX research, web development, esports, etc.
 - 📫 How to reach me: The best way to reach me is by [my email](mailto:cody.mcdonald0120@gmail.com).
