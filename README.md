@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔧 I'm currently employed as a Delivery Specialist for O'Reilly Auto Parts.
-- 🔭 I’m working towards securing long-term employment.
+- 🔧 I'm currently employed as a Software Developer for PMG Software Professionals.
 - 🌱 I’m currently learning Angular, Vue.js, software architecture, and web scraping.
 - 💬 Ask me about UX research, web development, esports, etc.
 - 📫 How to reach me: The best way to reach me is by [my email](mailto:cody.mcdonald0120@gmail.com).
