@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔧 I'm currently employed as a Software Developer for PMG Software Professionals.
-- 🌱 I’m currently learning Angular, Vue.js, software architecture, and web scraping.
+- 🌱 I’m currently learning dgrid and JQueryUI.
 - 💬 Ask me about UX research, web development, esports, etc.
 - 📫 How to reach me: The best way to reach me is by [my email](mailto:cody.mcdonald0120@gmail.com).
 - ⚡ Fun fact: I am a professional esports caster, and I was a member of UNA's collegiate esports team for four years.
