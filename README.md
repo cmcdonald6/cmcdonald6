@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔧 I'm currently employed as a Software Developer for PMG Software Professionals.
-- 🌱 I’m currently learning Report Definition Language Client-side.
 - 💬 Ask me about UX research, web development, esports, etc.
 - 📫 How to reach me: The best way to reach me is by [my email](mailto:cody.mcdonald0120@gmail.com).
 - ⚡ Fun fact: I am a [professional esports caster](https://youtu.be/2NZBt-A5Coo), and I was a member of UNA's collegiate esports team for four years.
