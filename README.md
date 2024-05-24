@@ -7,3 +7,5 @@
 
 #### Experience with:
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,cs,codepen,css,discord,docker,dotnet,eclipse,express,gcp,git,github,gradle,html,java,js,jquery,kubernetes,linkedin,linux,md,maven,mongodb,mysql,nodejs,php,powershell,pr,py,replit,selenium,twitter,ts,visualstudio,vscode&perline=19&theme=dark)](https://skillicons.dev)
+#### Certifications:
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6bb671d6-587e-495d-8401-c293c8f8ec00" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
