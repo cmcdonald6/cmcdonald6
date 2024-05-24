@@ -8,4 +8,5 @@
 #### Experience with:
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,cs,codepen,css,discord,docker,dotnet,eclipse,express,gcp,git,github,gradle,html,java,js,jquery,kubernetes,linkedin,linux,md,maven,mongodb,mysql,nodejs,php,powershell,pr,py,replit,selenium,twitter,ts,visualstudio,vscode&perline=19&theme=dark)](https://skillicons.dev)
 #### Certifications:
-[https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png](https://www.credly.com/badges/6bb671d6-587e-495d-8401-c293c8f8ec00/public_url)
+[![image](https://github.com/cmcdonald6/cmcdonald6/assets/111534264/07955e44-2df7-4ccc-a215-7ce7453a7842)
+](https://www.credly.com/badges/6bb671d6-587e-495d-8401-c293c8f8ec00/public_url)
